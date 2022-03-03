@@ -1,0 +1,6 @@
+ROUTE = "./files/data.csv"
+MSG = "Introduce tu nombre:"
+MSG1 = "Introduce tu apellido:"
+MSG2 = "Introduce tu edad:"
+MENU = "**********TECNOLOGÍA**********\n 1.- BigData\n 2.- Iot\n 3.- Nanotecnologia\n 4.- Ciberseguridad\n Otro número.- No especificado\n------------------------------"
+INIC = "Si introduces un 0, el programa termina. Pulsa otro número para continuar:"
