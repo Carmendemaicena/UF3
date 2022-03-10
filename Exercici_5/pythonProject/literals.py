@@ -1,0 +1,5 @@
+MSG = "Introduce el nombre del fichero:"
+MSG1 = "Introduce la selección deseada:"
+MSG2 = "El fichero no existe"
+ROUTE = "./files/"
+MENU = "****************MENU*****************\n 1.- Leer CSV\n 2.- Modificar el contenido del CSV\n 3.- Salir"
