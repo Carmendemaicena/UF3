@@ -1,0 +1,8 @@
+MSG = "¿Cuántos videos deseas introducir?"
+ID = "Introduce el ID del video:"
+GRP = "Introduce el cantante/grupo del video:"
+NAME = "Introduce el nombre de la canción:"
+DATA = "Introduce la fecha de publicación de la canción:"
+VIS = "Introduce el número de visualizaciones de la canción:"
+ROUTE = "./files/"
+FILE = "¿Qué nombre deseas ponerle al fichero?(si introduces el nombre de uno creado, se añadirá a este):"
