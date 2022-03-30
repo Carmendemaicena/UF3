@@ -1,0 +1,6 @@
+ROUTE = "./files/CO2_registre.csv"
+OP = "Selecciona la opción deseada: "
+ERROR = "No se pudo añadir los registros"
+NOTFOUND = "¡ERROR! Primero debes crear el registro de principio de hora."
+OK = "Registros añadidos correctamente"
+MENU = "*******************MENU*********************\n 1.- Añadir registros del principio de clase\n 2.- Añadir registros a mitad de clase\n 3.- Añadir registros del final de clase\n 4.- Salir\n********************************************"
